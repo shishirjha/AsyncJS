@@ -1,0 +1,20 @@
+[
+  {
+    "id" : 1,
+    "name": "John Doe",
+    "company": "123 Designs",
+    "phone": "444-555-666"
+  },
+  {
+    "id" : 2,
+    "name": "Steve Smith",
+    "company": "Deloitte",
+    "phone": "442-555-666"
+  },
+  {
+    "id" : 1,
+    "name": "Brad Traversy",
+    "company": "Traversy Media",
+    "phone": "447-555-666"
+  }
+]
